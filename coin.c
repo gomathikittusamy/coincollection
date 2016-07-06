@@ -13,7 +13,7 @@ scanf("%d",&a[i]);
 }
 printf("enter the value of sum");
 scanf("%d",&sum);
-for(i=0;sum!=0&&i<n;i++)
+for(i=0;sum!=0;i++)
 {
 b=0;
 b=sum/a[n];
